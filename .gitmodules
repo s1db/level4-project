@@ -1,3 +1,6 @@
 [submodule "NN-Verification"]
 	path = NN-Verification
 	url = https://github.com/s1db/NN-Verification
+[submodule "SafeRL_Infinity"]
+	path = SafeRL_Infinity
+	url = https://github.com/s1db/SafeRL_Infinity
