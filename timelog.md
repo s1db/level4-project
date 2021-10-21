@@ -26,4 +26,20 @@
 
 ## 06 October 2021
 * *3 hours* Installing and setting up the requirements for the Bacci-Parker paper.
-* 
+* *6 hours* Getting the code to work.
+
+## 07 October 2021
+* *30 minutes* Meeting with Gethin.
+* *6 hours* Understanding codebase.
+## 10 October 2021
+* *5 hours* Try to get the script to run on windows. [FAILED]
+
+## 12 October 2021
+* *4 hours* Try to get the script to run on WSL. [FAILED]
+
+## 14 October 2021
+* **
+## 19 October 2021
+* *2 hour* Read half of Probabilistic Guarantees for Safe Deep Reinforcement Learning paper.
+## 20 October 2021
+* *1 hour* Meeting with Gethin.
