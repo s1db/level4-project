@@ -75,4 +75,4 @@
 ### 3 November 2021
 - _1 hour_ Meeting with Gethin to give status update. 
 ### 13 November 2021
-- 
+- _2 hours_ Studying Stopping Car Expriment code (from RL Infinity)
