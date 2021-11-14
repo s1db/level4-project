@@ -1,9 +1,9 @@
 # Timelog
 
-- Verification of Neural Networks
-- Sidhant Bhavnani
-- 2482327B
-- Gethin Norman
+- Topic: Verification of Neural Networks
+- Name: Sidhant Bhavnani
+- GUID: 2482327B
+- Advisor: Gethin Norman
 
 ## Week 1
 
@@ -64,3 +64,15 @@
 
 - _2 hours_ Try to follow instructions given by Bacci.
 - _1 hour_ Meeting with Gethin.
+
+### 1 November 2021
+- _2 hours_ Meeting with Edordo Bacci to run the scripts.
+
+
+### 2 November 2021
+- _5 hours_ The script finally works for RL Infinity.
+
+### 3 November 2021
+- _1 hour_ Meeting with Gethin to give status update. 
+### 13 November 2021
+- 
